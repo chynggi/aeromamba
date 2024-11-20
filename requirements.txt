@@ -5,12 +5,7 @@ hyperlink==17.3.1
 HyperPyYAML==1.0.0
 matplotlib
 numpy==1.26.4
-opencv-python==4.9.0.80
-python==3.10.0
 soundfile
 sox
-torch==1.12.1+cu113
-torchvision==0.13.1+cu113
-torchaudio==0.12.1
 tqdm
 wandb
